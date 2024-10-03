@@ -1,0 +1,9 @@
+1. git clone https://github.com/NouranNwwaf/softwareEng.git
+
+- git status
+
+2. git add .
+
+3.  git commit -m "push safa Qasrawi.txt file"
+
+4. git push 
